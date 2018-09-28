@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "牙刷",
+        "price": 25,
+        "color": "yellow",
+        "ps": "这个是牙刷是爆款",
+        "img":"images/pic3.png"
+    },
+    {
+        "id": 2,
+        "name": "牙膏",
+        "price": 36,
+        "color": "blue",
+        "ps": "用的人都说好",
+        "img":"images/pic4.png"
+    },
+    {
+        "id": 3,
+        "name": "毛巾",
+        "price": 20,
+        "color": "yellow",
+        "ps": "很软,很柔",
+        "img":"images/pic5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "脸盆",
+        "price": 10,
+        "color": "white",
+        "ps": "很钢,很结实",
+        "img":"images/pic6.png"
+    }
+]

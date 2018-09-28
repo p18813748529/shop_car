@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.shopBox{
+    width: 848px;
+    margin: 100px auto 0;
+}
+.clear_fix:after{
+	content: "";
+	display: block;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	clear: both;
+}
+.shop{
+   width: 200px; 
+   float: left;
+   padding: 5px;
+   border: 1px solid coral;
+}
+.shop>img{
+    width: 200px;
+    height: 200px;
+}
+.shop .inp{
+    height: 25px;
+    width: 100px;
+}
+.shop button{
+    height: 29px;
+}
+#toCar{
+    display: block;
+    margin: 20px auto;
+}
